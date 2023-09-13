@@ -25,5 +25,13 @@ p{
 
 img{
     width: 250px;
-    
+    display: block;
+    margin: auto;
+    border: dashed 10px white;
+}
+
+div{
+    min-height: 125px;
+    padding: 20px;
+    border: solid 3px white;
 }
